@@ -1,0 +1,19 @@
+{
+  "name": "spectrum-codepen",
+  "version": "1.0.0",
+  "description": "A lib to create new codepens for spectrum css prototypes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garth Braithwaite <garthdb@gmail.com> (http://garthdb.com)",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarthDB/spectrum-codepen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GarthDB/spectrum-codepen/issues"
+  },
+  "homepage": "https://github.com/GarthDB/spectrum-codepen#readme"
+}
